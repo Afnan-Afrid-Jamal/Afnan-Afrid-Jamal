@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Current Activities
-- 🔭 I’m currently working on a **Shoping Web Application** (Full Stack).
+- 🔭 I’m currently working on a **Shopping Web Application** (Full Stack).
 - 🌱 I’m deeply exploring **Next.js** to master Server-Side Rendering (SSR) and Static Site Generation (SSG).
 - ⚡ I’m also focused on improving my backend optimization and database management skills.
 
@@ -47,7 +47,7 @@
 ---
 
 ### 🌐 Social Links
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/afnan-afrid-jamal-8069b8327/
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afnan-afrid-jamal-8069b8327/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afnan-Afrid-Jamal)
 
 ---
