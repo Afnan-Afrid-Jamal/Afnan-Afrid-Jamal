@@ -1,7 +1,7 @@
 # Hi there! I'm Afnan Afrid Jamal 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=MERN%20Stack%20Developer&fontSize=50" width="100%" alt="Banner" />
+  <img src="https://i.ibb.co.com/GQy8Fk6j/Linkedin-Banner.png" width="100%" alt="Banner" />
 </p>
 
 ### 🚀 Professional Junior MERN Stack Developer | Exploring Next.js
